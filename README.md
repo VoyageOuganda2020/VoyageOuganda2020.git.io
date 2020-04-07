@@ -1,1 +1,1 @@
-# VoyageOuganda2020.git.io
+# VoyageOuganda2020.github.io
